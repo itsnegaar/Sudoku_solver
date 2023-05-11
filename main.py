@@ -7,7 +7,6 @@ from utils import *
 if __name__ == "__main__":
     
     # Read input from user
-    print('here')
     n = int(input('Enter the size of the grid.').strip())  # size of the board
     c = int(input('Enter the number of filled cells.').strip())  # number of cells to fill
     print('board')
