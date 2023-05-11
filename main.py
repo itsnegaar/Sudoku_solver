@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
     '''# Read input from twxt file
     # Open the file and read the contents
-    with open('sudoku_board.txt', 'r') as f:
+    with open('test_case.txt', 'r') as f:
         lines = f.readlines()
 
     # Get the board size and initialize the board
